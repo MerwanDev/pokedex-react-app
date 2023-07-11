@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "nom": "Nom du produit",
+    "description": "Description du produit",
+    "prix": 29.99,
+    "couleurs": ["rouge", "bleu", "vert"],
+    "dimensions": {
+      "hauteur": 10,
+      "largeur": 15,
+      "profondeur": 5
+    },
+    "caracteristiques": {
+      "poids": 0.5,
+      "materiau": "acier",
+      "fabricant": "Nom du fabricant"
+    },
+    "commentaires": [
+      {
+        "auteur": "Utilisateur1",
+        "texte": "Très bon produit !"
+      },
+      {
+        "auteur": "Utilisateur2",
+        "texte": "Le produit ne correspond pas à la description."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nom": "Produit 2",
+    "description": "Description du produit 2",
+    "prix": 19.99,
+    "couleurs": ["noir", "blanc"],
+    "dimensions": {
+      "hauteur": 8,
+      "largeur": 12,
+      "profondeur": 4
+    },
+    "caracteristiques": {
+      "poids": 0.3,
+      "materiau": "plastique",
+      "fabricant": "Nom du fabricant 2"
+    },
+    "commentaires": [
+      {
+        "auteur": "Utilisateur3",
+        "texte": "Très bon rapport qualité-prix."
+      },
+      {
+        "auteur": "Utilisateur4",
+        "texte": "Le produit est fragile."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nom": "Produit 3",
+    "description": "Description du produit 3",
+    "prix": 39.99,
+    "couleurs": ["jaune", "rose", "violet"],
+    "dimensions": {
+      "hauteur": 15,
+      "largeur": 18,
+      "profondeur": 6
+    },
+    "caracteristiques": {
+      "poids": 0.8,
+      "materiau": "bois",
+      "fabricant": "Nom du fabricant 3"
+    },
+    "commentaires": [
+      {
+        "auteur": "Utilisateur5",
+        "texte": "Superbe produit, je le recommande !"
+      },
+      {
+        "auteur": "Utilisateur6",
+        "texte": "La livraison a été lente."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nom": "Produit 4",
+    "description": "Description du produit 4",
+    "prix": 49.99,
+    "couleurs": ["gris", "marron"],
+    "dimensions": {
+      "hauteur": 12,
+      "largeur": 16,
+      "profondeur": 6
+    },
+    "caracteristiques": {
+      "poids": 0.6,
+      "materiau": "métal",
+      "fabricant": "Nom du fabricant 4"
+    },
+    "commentaires": [
+      {
+        "auteur": "Utilisateur7",
+        "texte": "Très satisfait de mon achat !"
+      },
+      {
+        "auteur": "Utilisateur8",
+        "texte": "Le produit est robuste et de bonne qualité."
+      }
+    ]
+  }
+]
